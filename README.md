@@ -25,9 +25,9 @@ Pet-project консольной игры **Minesweeper** на Python.
 
 - **Language:** Python
 - **Paradigm:** Object-Oriented Programming (OOP)
-- **Architecture:** modular structure
-- **Interface:** console / terminal
-- **Game Logic:** custom Minesweeper engine
+- **Standard Library:** random, dataclasses, collections.deque
+- **Architecture:** modular console application
+- **Interface:** CLI / terminal
 
 ## Project Goal
 
